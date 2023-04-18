@@ -1,5 +1,7 @@
 # GitHub Pages "Hello World"
 
-The "plain web page", can be accessed via: https://ulflulfl.github.io/
+**GitHub Pages** can be used to easily show static webpages.
 
-Settings, see: https://docs.github.com/en/pages/quickstart
+This hello world example can be accessed via: https://ulflulfl.github.io/
+
+An "How To" for the settings can be found at: https://docs.github.com/en/pages/quickstart
